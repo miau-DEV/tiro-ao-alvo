@@ -37,6 +37,7 @@
   "resources":[
     {"id":{"name":"obj_alvo","path":"objects/obj_alvo/obj_alvo.yy",},},
     {"id":{"name":"obj_arma","path":"objects/obj_arma/obj_arma.yy",},},
+    {"id":{"name":"obj_spawn_inimigos","path":"objects/obj_spawn_inimigos/obj_spawn_inimigos.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_alvo","path":"sprites/spr_alvo/spr_alvo.yy",},},
     {"id":{"name":"spr_arma","path":"sprites/spr_arma/spr_arma.yy",},},
