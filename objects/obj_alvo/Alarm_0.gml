@@ -1,1 +1,1 @@
-instance_destroy(obj_arma)
+instance_destroy(obj_arma) //ataca o inimigo
